@@ -2,7 +2,7 @@
 
 **This keyboard is not the same as [foostan's Corne](https://github.com/foostan/crkbd). It will not work with standard `corne` firmware.**
 
-![Photo of Eyelash Peripherals Corne](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
+![corne mx wireless](https://github.com/user-attachments/assets/77fc2228-e4b9-479c-93fc-f2ccdf96a7bd)
 
 If you need a 3D model of this keyboard, email `380465425@qq.com`.
 
