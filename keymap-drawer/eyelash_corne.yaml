@@ -1,6 +1,6 @@
 layers:
   QWERTY:
-  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - E
@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - '&td0'
+  - $$mdi:keyboard-tab$$
   - A
   - S
   - D
